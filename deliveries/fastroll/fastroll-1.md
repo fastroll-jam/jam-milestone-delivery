@@ -52,5 +52,5 @@ We declare that:
 | Number	| Deliverable	| Link	 | Notes |
 |---------|-------------|--------|-------|
 |1.	      |FastRoll Source Code|https://github.com/fastroll-jam/fastroll	   ||
-|2.	      |Binary Releases|https://github.com/fastroll-jam/fastroll-releases/releases	   |For conformance testing|
+|2.	      |Docker Image Package|https://github.com/fastroll-jam/fastroll/pkgs/container/fastroll	   |For conformance testing|
 |3.	      |Public Commit Hashes|https://etherscan.io/advanced-filter?fadd=0x25BA43364BF720d8dFe3c2680CB4C232a29B093C&tadd=0x25BA43364BF720d8dFe3c2680CB4C232a29B093C&txntype=0&qt=1	   |Used Ethereum to snapshot commit hashes|
